@@ -1,0 +1,8 @@
+{
+  "name": "job-hunter",
+  "owner": { "name": "sacha-riccardo-leone" },
+  "metadata": { "description": "Searches for jobs, scores every offer against your profile out of 10, keeps only the good ones, drafts letters, reminds you to follow up. Never applies for you." },
+  "plugins": [
+    { "name": "job-hunter", "source": "./", "description": "Searches for jobs, scores every offer against your profile out of 10, keeps only the good ones, drafts letters, reminds you to follow up. Never applies for you.", "version": "0.1.0" }
+  ]
+}

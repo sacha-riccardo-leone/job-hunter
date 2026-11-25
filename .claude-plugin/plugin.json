@@ -1,0 +1,10 @@
+{
+  "name": "job-hunter",
+  "version": "0.1.0",
+  "description": "Searches for jobs, scores every offer against your profile out of 10, keeps only the good ones, drafts letters, reminds you to follow up. Never applies for you.",
+  "author": { "name": "Sacha", "url": "https://github.com/sacha-riccardo-leone" },
+  "homepage": "https://github.com/sacha-riccardo-leone/job-hunter",
+  "repository": "https://github.com/sacha-riccardo-leone/job-hunter",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "career", "cover-letter", "tracker", "recherche-emploi"]
+}
